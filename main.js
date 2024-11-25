@@ -1,4 +1,11 @@
-import quizData from './data.json';
+var quizData;
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    quizData = data
+  })
+  .catch(error => console.error('Error fetching JSON:', error));
+
 import { videoConfig } from './js/videoConfig.js';
 import { QuizManager } from './js/quizManager.js';
 import { FullscreenManager } from './js/fullscreenManager.js';
