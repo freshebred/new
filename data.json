@@ -13,7 +13,7 @@
       "correctAnswer": 2
     },
     {
-      "timestamp": 80,
+      "timestamp": 81,
       "question": "IoT có ưu điểm gì?",
       "options": [
         "nó giúp kết nối các thiết bị với nhau để cùng làm việc hòa hợp",
@@ -24,7 +24,7 @@
       "correctAnswer": 0
     },
     {
-      "timestamp": 146,
+      "timestamp": 148,
       "question": "Bạn không nên làm gì để bảo vệ bản thân trong xã hội đang \"IoT-hóa\"?",
       "options": [
         "sử dụng phần mềm diệt virus",
