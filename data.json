@@ -1,0 +1,16 @@
+{
+  "quizzes": [
+    
+    {
+      "timestamp": 49,
+      "question": "IoT là cái giống ôn gì???",
+      "options": [
+        "internet",
+        "internet mà ngầu hơn",
+        "mạng lưới các thiết bị kết nối vào chung một máy chủ hay thiết bị trung gian để có thể giao tiếp với nhau",
+        "Internet (mà chữ I viết hoa)"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
