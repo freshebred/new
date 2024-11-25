@@ -2,7 +2,7 @@
   "quizzes": [
     
     {
-      "timestamp": 49,
+      "timestamp": 50,
       "question": "IoT là cái giống ôn gì???",
       "options": [
         "internet",
@@ -11,6 +11,28 @@
         "Internet (mà chữ I viết hoa)"
       ],
       "correctAnswer": 2
+    },
+    {
+      "timestamp": 80,
+      "question": "IoT có ưu điểm gì?",
+      "options": [
+        "nó giúp kết nối các thiết bị với nhau để cùng làm việc hòa hợp",
+        "nó làm mọi thứ rắc rối hơn",
+        "nó vậy á",
+        "nó ngầu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "timestamp": 146,
+      "question": "Bạn không nên làm gì để bảo vệ bản thân trong xã hội đang \"IoT-hóa\"?",
+      "options": [
+        "sử dụng phần mềm diệt virus",
+        "kết nối vào mạng công cộng tên \"FREEE_WIFI_FRFR1234\"",
+        "lắp đặt hệ thống quản lý thiết bị thông minh trong nhà",
+        "đi Đà Lạt"
+      ],
+      "correctAnswer": 1
     }
   ]
 }
